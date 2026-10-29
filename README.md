@@ -1,7 +1,7 @@
 # 🍊 Album Mikan
 *— Customize Your Gallery and Album —*
 
-![Album Mikan Logo](images/logo.png)
+![Album Mikan Logo](images/logo_s.png)
 
 ## Overview
 
@@ -67,7 +67,7 @@ Album Mikan offers a wide range of appearance settings so users can personalize 
 
 The aim is to make customization an integral part of the app, rather than a small collection of optional themes.
 
-![Appearance Customization](images/screenshot/11.png)
+![Appearance Customization](images/screenshot/14.png)
 
 ### ⚙️ Additional Features
 
