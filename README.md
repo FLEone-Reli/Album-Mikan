@@ -1,3 +1,5 @@
+> **Note:** This app is currently under development (Work in Progress).
+
 # 🍊 Album Mikan
 *— Customize Your Gallery and Album —*
 
